@@ -1,0 +1,36 @@
+body{
+    /*background-color: rgb(57, 173, 53);*/
+}
+
+#form-table{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: right;
+}
+
+#header{
+   text-align: center;
+}
+img{
+    width: 800px;
+    height: 350px;
+    object-fit: cover;
+    object-position: bottom;
+}
+th{
+    width: 330px;
+    text-align: left;
+    background-color: aqua;
+}
+td{
+    width: 470px;
+    text-align: center;
+    background-color: rgb(172, 228, 228);
+}
+input{
+    width: 370px;
+}
+textarea{
+    width: 370px;
+}
+
